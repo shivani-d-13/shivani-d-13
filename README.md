@@ -17,10 +17,7 @@ Always learning something new; whether it's algorithms, web development, or game
 
 ## 📌 Projects
 - **Minesweeper Game**: My first ever coding project and still one of my favorites!
-- **Email Parser**: A simple mini-project i worked on recently.
-
-## ✨ Fun Fact
-I got into coding because of a game—and now I'm hooked!
+- **Email Reader**: A simple mini-project i worked on recently.
 
 ---
 
