@@ -8,9 +8,9 @@ I'm a passionate **Computer Science student** with a love for building, learning
 - 🕹️ The **Minesweeper game** was my very first project and what sparked my journey into programming!
 
 ## 🛠️ Top Skills
-- Python
-- C++
-- MySQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌱 What I'm Working On
 Always learning something new; whether it's algorithms, web development, or game logic!
