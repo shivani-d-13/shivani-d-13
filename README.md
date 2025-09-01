@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Shivani! 👋
 
-<!--
-**shivani-d-13/shivani-d-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Computer Science student** with a love for building, learning, and exploring the world of tech.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently studying Computer Science and Engineering
+- 💻 I code in **Python**, **C++**, and work with **MySQL**
+- 🕹️ The **Minesweeper game** was my very first project and what sparked my journey into programming!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Top Skills
+- Python
+- C++
+- MySQL
+
+## 🌱 What I'm Working On
+Always learning something new; whether it's algorithms, web development, or game logic!
+
+## 📌 Projects
+- **Minesweeper Game**: My first ever coding project and still one of my favorites!
+- **Email Parser**: A simple mini-project i worked on recently.
+
+## ✨ Fun Fact
+I got into coding because of a game—and now I'm hooked!
+
+---
+
+Thanks for visiting my profile! Let's connect and build something awesome. 🚀
